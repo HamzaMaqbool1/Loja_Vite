@@ -158,7 +158,7 @@
       }
       #loja #clothrack
   {
-    margin-top: 20px !important;
+    margin-top: 55px !important;
     height: 175px !important;
     width: 500px !important;
   }
@@ -170,7 +170,7 @@
   }
   #loja #clothrack1
   {
-    margin-top: 10px !important;
+    margin-top: 50px !important;
     height: 100px !important;
     width: 200px !important;
   }
@@ -222,7 +222,7 @@
     }
     #loja #clothrack1
     {
-        margin-top: 15px !important;
+        margin-top: 52px !important;
         height: 110px !important;
         width: 300px !important;
         margin-left: 50px !important;
@@ -276,8 +276,9 @@
         right: 5px !important;
     }
     #loja #clothrack1{
-        margin-top: 0px !important;
+        margin-top: 32px !important;
         height: 98px !important;
+        margin-left: 20px !important;
     }
     #loja #lojaimage{
         left: 4% !important;
@@ -309,8 +310,8 @@
         font-size: xx-small !important;
     }
     #loja #clothrack1{
-        margin-left: 9px !important;
-        margin-top: 0px !important;
+      margin-left: 2px !important;
+      margin-top: 30px !important;
     }
     #loja #lojaimage{
         left: 3% !important;
