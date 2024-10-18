@@ -161,7 +161,7 @@ function Footer(){
 function App() {
   return (
     <>
-    <Router>
+    <Router basename='/Loja_Vite/'>
      <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>}></Route>
