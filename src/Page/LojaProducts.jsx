@@ -12,8 +12,6 @@ import image5 from '../Image/imperial.jpg'
 import image6 from '../Image/siddique.jpg'
 import image7 from '../Image/Xinhua.jpg'
 import image16 from '../Image/Torn.png'
-import image17 from '../Image/Clothrack.png'
-import image18 from '../Image/image13copy.png'
 import img15 from '../Image/Loja.png'
 const LojaProducts = () => {
   return (
@@ -120,11 +118,11 @@ const LojaProducts = () => {
         <div className="container-fluid  my-md-5 my-3" style={{backgroundColor:'#c9977c'}}>
           <div className="row">
             <div className="col-md-6 vh-100" style={{backgroundImage:`url(${image16})`,backgroundRepeat: "no-repeat",backgroundPosition:'left center',backgroundSize:'100% 100%'}}>
-              <img src={image17} alt="Clothrack" className='img-fluid' id='clothrack'/>
+              
             </div>
             <div className="col-lg-2 col-md-3 vh-100" style={{backgroundImage:`url(${image16})`,backgroundRepeat: "no-repeat",backgroundPosition:'bottom',backgroundSize:'100% 70%'}}>
             <p className=' fw-bold' id='clothracktext'>Style up and save big! Buy one, get cashback - limited time only, shop now and stay fabulous!</p>
-              <img src={image18} alt="Clothrack" className='img-fluid' id='clothrack1'/>
+              
             </div>
             <div className="col-lg-4 col-md-3 d-flex flex-column justify-content-center my-3">
                   <h3 style={{color:'#ccc5c0'}} className='fw-bold fs-1 text-center'>FASHION SALE</h3>
